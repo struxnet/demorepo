@@ -35,6 +35,9 @@ along with Damn Vulnerable Web Application (DVWA).  If not, see <https://www.gnu
 
 - - -
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fstruxnet%2Fdemorepo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fstruxnet%2Fdemorepo?ref=badge_large)
+
 ## Internationalisation
 
 This file is available in multiple languages:
@@ -276,6 +279,7 @@ Some minor details may change with newer versions, but the access method should 
 
 ![Overview of DVWA compose](./docs/graphics/docker/overview.png)
 ![Viewing DVWA logs](docs/graphics/docker/detail.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fstruxnet%2Fdemorepo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fstruxnet%2Fdemorepo?ref=badge_shield)
 
 Logs can also be accessed from the terminal.
 
